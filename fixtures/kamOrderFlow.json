@@ -1,0 +1,31 @@
+{
+    "kam_username":"kam@gmail.com",
+    "kam_password":"test123",
+    "customer":"KAM Order Customer one",
+    "title":"Vegrow",
+    "mandimanager_username":"Mandimanager@gmail.com",
+    "title1":"Supply Chain",
+    "homepageTitle":"VeSell",
+    "actualFare":100,
+    "reason":"Test automation reasons",
+    "partner":"TesterTransporter",
+    "driver_name":"auto-test",
+    "driver_phone1":8888888888,
+    "driver_phone2":9999999999,
+     "vehicle_number":"UP70FV2939",
+     "transportation_cost":1000,
+     "qty":1,
+     "product":"Kinnow",
+     "Sku":"42CT",
+     "Packaging":"HD Crate_Old",
+     "UnitType":"Units",
+     "AvgWeight":10,
+     "Comments":"Test automation comments",
+     "ExpectedPrice":100,
+     "FruitName":"Pomegranate",
+     "NetPayable":200,
+     "pricingApprover_userName":"userPricingApprover1",
+     "pricingApprover_Password":"test123"
+    
+
+}

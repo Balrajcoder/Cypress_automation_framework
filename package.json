@@ -1,0 +1,24 @@
+{
+  "name": "vegrow",
+  "version": "1.0.0",
+  "description": "Boostr app E2E tests automation project",
+  "main": "cypress.config.js",
+  "author": "Balraj",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1382.0",
+    "cypress": "^14.2.0",
+    "wait-on": "^7.0.1"
+  },
+  "devDependencies": {
+    "@cypress/code-coverage": "^3.13.12",
+    "@cypress/grep": "^4.1.0",
+    "cypress-browser-permissions": "^1.1.0",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-xpath": "^2.0.1",
+    "mochawesome-merge": "^4.3.0",
+    "mochawesome-report-generator": "^6.2.0",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43"
+  }
+}

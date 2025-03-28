@@ -1,0 +1,15 @@
+{
+    "items": [
+    {
+        "product": "Apple",
+        "sku": "KUL-EL-UROYAL",
+        "packagingItem": "Crate"
+    },
+    {
+        "product": "Kinnow",
+        "sku": "42CT",
+        "packagingItem": "Crate"
+
+    }
+]
+}
